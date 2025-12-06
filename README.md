@@ -7,11 +7,17 @@
 
 ---
 
+<div align="center">
+
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=GobishankarG)
+
+</div>
 
 ---
 
-# 💻 Tech Stack
+<h1 align="center">💻 Tech Stack</h1>
+
+<div align="center">
 
 ## **Backend & APIs**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,8 +34,8 @@
 
 ## **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## **Tools & Others**
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -40,22 +46,33 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+</div>
+
 ---
 
-## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gobishankar-gunasekaran)  
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/GobishankarG)  
+<h1 align="center">🌐 Socials</h1>
+
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gobishankar8888@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gobishankar-gunasekaran)
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/GobishankarG)
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+<h1 align="center">📊 GitHub Stats</h1>
+
+<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=GobishankarG&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=GobishankarG&theme=transparent&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GobishankarG&theme=transparent&hide_border=false&layout=compact)
+
+</div>
 
 ---
 
