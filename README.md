@@ -7,6 +7,10 @@
 
 ---
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=GobishankarG)
+
+---
+
 # 💻 Tech Stack
 
 ## **Backend & APIs**
@@ -54,7 +58,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GobishankarG&theme=transparent&hide_border=false&layout=compact)
 
 ---
-
-### 👀 Profile Visits  
-[![](https://visitcount.itsvg.in/api?id=GobishankarG&icon=2&color=1)](https://visitcount.itsvg.in)
 
