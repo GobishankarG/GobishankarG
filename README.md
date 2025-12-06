@@ -1,4 +1,4 @@
-# 👋 About Me
+<h1 align="center">👋 About Me</h1>
 
 🔭 Building full-stack applications with **Python**, **Django**, and **JavaScript**  
 🌱 Exploring **APIs** and **React**  
